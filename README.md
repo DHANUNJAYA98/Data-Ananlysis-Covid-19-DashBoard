@@ -1,4 +1,6 @@
 # Data-Ananlysis-Covid-19-DashBoard
+you can view live DashBoard
+https://public.tableau.com/app/profile/namburi.dhanunjaya6832/viz/Book2_16708242281780/Dashboard1?publish=yes
 covid-19 summary 
 - COVID-19 dashboard is a web-based platform or application that provides real-time and up-to-date information and statistics related to the COVID-19 pandemic. These dashboards are designed to help the public, healthcare professionals, policymakers, and researchers track the spread and impact of the virus. Here are some common features and information typically found on a COVID-19 dashboard:
 -Total Cases: The total number of confirmed COVID-19 cases, including both active and recovered cases.
